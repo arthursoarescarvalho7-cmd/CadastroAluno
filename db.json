@@ -1,0 +1,80 @@
+{
+  "alunos": [
+    {
+      "codigoPessoa": 1,
+      "nome": "Arthur",
+      "cpf": "000.000.000-11",
+      "dataNascimentoDia": 31,
+      "dataNascimentoMes": 10,
+      "dataNascimentoAno": 2007,
+      "e-mail": "arthur@email.com",
+      "id": "Y6Wk8sr3nfM"
+    },
+    {
+      "codigoPessoa": 2,
+      "nome": "Nicolle",
+      "cpf": "000.000.000-02",
+      "dataNascimentoDia": 16,
+      "dataNascimentoMes": 10,
+      "dataNascimentoAno": 2007,
+      "e-mail": "nicolle@email.com",
+      "id": "SO1POOgKc7g"
+    },
+    {
+      "codigoPessoa": 3,
+      "nome": "Sarah",
+      "cpf": "000.000.000-31",
+      "dataNascimentoDia": 7,
+      "dataNascimentoMes": 1,
+      "dataNascimentoAno": 2008,
+      "e-mail": "sarah@email.com",
+      "id": "lf5YvSVF1h0"
+    },
+    {
+      "codigoPessoa": 4,
+      "nome": "Henrique",
+      "cpf": "000.000.000-04",
+      "dataNascimentoDia": 18,
+      "dataNascimentoMes": 9,
+      "dataNascimentoAno": 2007,
+      "e-mail": "henrique@email.com",
+      "id": "umLRh-i56EY"
+    }
+  ],
+  "enderecos": [
+    {
+      "alunosCodigo": 1,
+      "cep": "00000-001",
+      "logradouro": "rua puc",
+      "numero": 1000,
+      "complemento": "apto 1",
+      "bairro": "Coração Eucarístico",
+      "cidade": "Belo Horizonte",
+      "UF": "MG",
+      "id": "TLcmRvm-1NM"
+    },
+    {
+      "alunosCodigo": 2,
+      "cep": "00000-002",
+      "logradouro": "rua dom helder",
+      "numero": 2000,
+      "complemento": "apto 2",
+      "bairro": "Centro",
+      "cidade": "Belo Horizonte",
+      "UF": "MG",
+      "id": "r3uglEwcp0w"
+    },
+    {
+      "alunosCodigo": 3,
+      "cep": "00000-003",
+      "logradouro": "rua puc",
+      "numero": 3000,
+      "complemento": "apto 3",
+      "bairro": "Coração Eucarístico",
+      "cidade": "Belo Horizonte",
+      "UF": "MG",
+      "id": "gn1ZGSfbr5Q"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
